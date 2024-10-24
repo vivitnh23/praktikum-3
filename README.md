@@ -25,19 +25,18 @@ Program ini dibuat menggunakan bahasa Python dengan fitur:
   ```
   
 ```
-## output program
-````
-masukan bilangan : 78
+## output program 
+''''
 masukan bilangan : 90
+masukan bilangan : 78
 masukan bilangan : 65
 masukan bilangan : 200
-masukan bilangan : 345
 masukan bilangan : 899
 masukan bilangan : 0
 bilangan terbesar : 899
-````
+''''
 
-# Cara Kerja Program
-Aadanya variable max disini dengan nilai 0, setelah itu terdapat variabel inputan dengan nama bilangan, jika kondisi
+## Cara Kerja Program 
+adanya variable max disini dengan nilai 0, setelah itu terdapat variabel inputan dengan nama bilangan, jika kondisi
 bilangan tidak sama dengan 0 maka cari bilangan lebih dari max dan variabel max di set dengan bilangan tersebut. jika bilangan
 lebih kecil dari, max maka bilangan input kembali sehingga akan menghasilkan bilangan terbesar dari operasi tersebut.
