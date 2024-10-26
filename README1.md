@@ -10,7 +10,7 @@ Program ini dibuat menggunakan bahasa python dengan fitur:
 - Validasi input agar pengguna memasukkan bilangan yang sesuai.
 
 ## Flowchart Program 
-![Flowchart1](Flowchart1.png)
+![Flowchart1](https://github.com/vivitnh23/praktikum-3/blob/main/Flowchart%201.png?raw=true)
 
 ## Kode Program 
 ``` Python
@@ -41,6 +41,16 @@ bilangan terbesar adalah: 2004.0
 ````
 
 # Cara Kerja Program 
+Program ini dimulai dengan meminta pengguna menginput tiga angka. setelah menginput ketiga angka tersebut program menggunakan
+fungsi IF/ELSE untuk menentukan angka yang paling besar diantara ketiga angka yang sudah diinputkan tadi. fungsi IF secara langsung membandingkan semua angka dan memilih angka terbesar untuk dicetak terakhir kali dan menampilkan kalimat yang lebih jelas. dengan 
+menggunakan if/else membuat program lebih ringkas dan mudah dipahami. dengan melakukan pengecekan dengan urutan :
 
+- apakah A>B ?
+- jika ya : cek apakah A>C?
+- jika Ya: A adalah yang terbesar
+- jika tidak : C adalah terbesar
+- jika tidak : cek apakah B>C ?
+- jika ya : B adalah yang terbesar
+- jika tidak : C adalah nilai terbesar   
 
 
